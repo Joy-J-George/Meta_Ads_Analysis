@@ -1,0 +1,301 @@
+client_id,sales_team,industry,sector,country,annual_revenue
+Client_11,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,133
+Client_12,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,1176
+Client_13,LCS_UK_FINANCE,Financial Services,Banking,NULL,1260
+Client_14,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,United Arab Emirates,7628
+Client_15,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,68
+Client_16,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,452
+Client_107,LCS_FR_LUXURY,Retail,Retail,NULL,3566
+Client_108,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,166
+Client_109,LCS_UK_FINANCE,financial services,banking,United Kingdom,949
+Client_1010,MENA_ECOM,retail,Consumer Goods,United Arab Emirates,161
+Client_1011,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,5803
+Client_1012,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,NULL,297
+Client_1113,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,2733
+Client_1114,LCS_IT_FASHION,Retail & Consumer Goods,retail,Italy,193
+Client_1115,LCS_UK_FINANCE,Financial Services,banking,United Kingdom,335
+Client_1116,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,United Arab Emirates,92
+Client_1117,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,389
+Client_1118,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,1248
+Client_1219,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,NULL,353
+Client_1220,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,106
+Client_1221,LCS_UK_FINANCE,financial services,banking,United Kingdom,214
+Client_1222,MENA_ECOM,Retail  ,Consumer Goods,United Arab Emirates,374
+Client_1223,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,231
+Client_1224,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,142
+Client_1325,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,147
+Client_1326,LCS_IT_FASHION,Retail & Consumer Goods,Retail,NULL,1020
+Client_1327,LCS_UK_FINANCE,Financial Services,Banking,United Kingdom,9730
+Client_1328,MENA_ECOM,Retail  ,Consumer Goods,United Arab Emirates,444
+Client_1329,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,432
+Client_1330,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,324
+Client_1431,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,132
+Client_1432,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,266
+Client_1433,LCS_UK_FINANCE,Financial Services,banking,United Kingdom,604
+Client_1434,MENA_ECOM,Retail & Consumer Goods,Retail,United Arab Emirates,989
+Client_1435,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,160
+Client_1436,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,239
+Client_1537,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,541
+Client_1538,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,209
+Client_1539,LCS_UK_FINANCE,Finance,Banking,United Kingdom,1384
+Client_1540,MENA_ECOM,Retail  ,Retail,United Arab Emirates,151
+Client_1541,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,304
+Client_1542,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,191
+Client_1643,LCS_FR_LUXURY,Retail,Retail,France,81
+Client_1644,LCS_IT_FASHION,Retail,retail,Italy,1236
+Client_1645,LCS_UK_FINANCE,Financial Services,Banking,United Kingdom,338
+Client_1646,MENA_ECOM,Retail & Consumer Goods,Retail,United Arab Emirates,308
+Client_1647,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,304
+Client_1648,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,5720
+Client_1749,LCS_FR_LUXURY,retail,Retail,France,170
+Client_1750,LCS_IT_FASHION,Retail & Consumer Goods,retail,Italy,110
+Client_1751,LCS_UK_FINANCE,Financial Services,Banking,United Kingdom,136
+Client_1752,MENA_ECOM,Retail  ,retail,United Arab Emirates,985
+Client_1753,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,334
+Client_1754,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,4059
+Client_1855,LCS_FR_LUXURY,RCG,Retail,France,326
+Client_1856,LCS_IT_FASHION,Retail,retail,Italy,227
+Client_1857,LCS_UK_FINANCE,Finance,Banking,United Kingdom,1001
+Client_1858,MENA_ECOM,Retail & Consumer Goods,Retail,United Arab Emirates,2599
+Client_1859,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,777
+Client_1860,SMB_ES_RETAIL,Retail & Consumer Goods,Retail,Spain,674
+Client_1961,LCS_FR_LUXURY,RCG,Retail,NULL,322
+Client_1962,LCS_IT_FASHION,Retail,retail,NULL,264
+Client_1963,LCS_UK_FINANCE,Financial Services,Banking,United Kingdom,136
+Client_1964,MENA_ECOM,Retail  ,retail,United Arab Emirates,479
+Client_1965,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,429
+Client_1966,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,224
+Client_267,LCS_FR_LUXURY,RCG,Retail,France,1232
+Client_268,LCS_IT_FASHION,Retail & Consumer Goods,retail,Italy,289
+Client_269,LCS_UK_FINANCE,Financial Services,Banking,United Kingdom,282
+Client_270,MENA_ECOM,Retail & Consumer Goods,Retail,United Arab Emirates,735
+Client_271,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,1621
+Client_272,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,86
+Client_2073,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,499
+Client_2074,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,172
+Client_2075,LCS_UK_FINANCE,Finance,Capital Markets,United Kingdom,150
+Client_2076,MENA_ECOM,Retail  ,retail,United Arab Emirates,272
+Client_2077,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,508
+Client_2078,SMB_ES_RETAIL,Retail & Consumer Goods,Retail,Spain,398
+Client_2179,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,566
+Client_2180,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,411
+Client_2181,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,1221
+Client_2182,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,80
+Client_2183,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,1413
+Client_2184,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,2562
+Client_2285,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,137
+Client_2286,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,526
+Client_2287,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,78
+Client_2288,MENA_ECOM,Retail  ,retail,Morocco,188
+Client_2289,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,187
+Client_2290,SMB_ES_RETAIL,Retail & Consumer Goods,Retail,Spain,422
+Client_2391,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,3082
+Client_2392,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,874
+Client_2393,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,308
+Client_2394,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,356
+Client_2395,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,101
+Client_2396,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,248
+Client_2497,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,268
+Client_2498,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,4873
+Client_2499,LCS_UK_FINANCE,Finance,Capital Markets,United Kingdom,483
+Client_24100,MENA_ECOM,Retail  ,Retail,Morocco,10473
+Client_24101,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,566
+Client_24102,SMB_ES_RETAIL,Retail & Consumer Goods,Retail,Spain,64
+Client_25103,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,6858
+Client_25104,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,492
+Client_25105,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,623
+Client_25106,MENA_ECOM,Retail & Consumer Goods,retail,Morocco,951
+Client_25107,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,137
+Client_25108,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,2995
+Client_26109,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,3313
+Client_26110,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,363
+Client_26111,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,249
+Client_26112,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,68
+Client_26113,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,866
+Client_26114,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,190
+Client_27115,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,88
+Client_27116,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,322
+Client_27117,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,2131
+Client_27118,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,359
+Client_27119,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,157
+Client_27120,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,180
+Client_28121,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,240
+Client_28122,LCS_IT_FASHION,Retail & Consumer Goods,Retail,Italy,384
+Client_28123,LCS_UK_FINANCE,Finance,Capital Markets,United Kingdom,238
+Client_28124,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,192
+Client_28125,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,160
+Client_28126,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,628
+Client_29127,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,NULL,234
+Client_29128,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1535
+Client_29129,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,205
+Client_29130,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,675
+Client_29131,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,406
+Client_29132,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,136
+Client_3133,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,NULL,188
+Client_3134,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,125
+Client_3135,LCS_UK_FINANCE,Financial Services,Capital Markets,United Kingdom,123
+Client_3136,MENA_ECOM,Retail & Consumer Goods,Retail,Morocco,443
+Client_3137,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,159
+Client_3138,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,495
+Client_30139,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,816
+Client_30140,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,442
+Client_30141,LCS_UK_FINANCE,Financial Services,Capital Markets,NULL,117
+Client_30142,MENA_ECOM,Retail & Consumer Goods,consumers goods ,Morocco,591
+Client_30143,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,732
+Client_30144,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,1440
+Client_31145,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,378
+Client_31146,LCS_IT_FASHION,Retail & Consumer Goods,consumer goods,Italy,1273
+Client_31147,LCS_UK_FINANCE,Financial Services,Capital Markets,NULL,188
+Client_31148,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Morocco,106
+Client_31149,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,1337
+Client_31150,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,312
+Client_32151,LCS_FR_LUXURY,Retail & Consumer Goods,Retail,France,2792
+Client_32152,LCS_IT_FASHION,Retail & Consumer Goods,consumer goods,Italy,12525
+Client_32153,LCS_UK_FINANCE,Financial Services,Insurance,NULL,284
+Client_32154,MENA_ECOM,Retail & Consumer Goods,consumers goods ,Morocco,96
+Client_32155,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,115
+Client_32156,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,689
+Client_33157,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,NULL,279
+Client_33158,LCS_IT_FASHION,Retail & Consumer Goods,consumer goods,Italy,1295
+Client_33159,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,69
+Client_33160,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Israel,383
+Client_33161,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,143
+Client_33162,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,530
+Client_34163,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,99
+Client_34164,LCS_IT_FASHION,Consumer Goods,consumer goods,Italy,155
+Client_34165,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,240
+Client_34166,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Israel,547
+Client_34167,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,263
+Client_34168,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,102
+Client_35169,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,101
+Client_35170,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,235
+Client_35171,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,237
+Client_35172,MENA_ECOM,Retail & Consumer Goods,retail,Israel,334
+Client_35173,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,197
+Client_35174,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,922
+Client_36175,LCS_FR_LUXURY,Consumer Goods,Consumer Goods,France,86
+Client_36176,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,490
+Client_36177,LCS_UK_FINANCE,Financial Services,INSURANCE,NULL,120
+Client_36178,MENA_ECOM,Retail & Consumer Goods,Retail,Israel,112
+Client_36179,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,1524
+Client_36180,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,9345
+Client_37181,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,170
+Client_37182,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1200
+Client_37183,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,332
+Client_37184,MENA_ECOM,Retail & Consumer Goods,retail,Israel,191
+Client_37185,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,84
+Client_37186,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,491
+Client_38187,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,NULL,2014
+Client_38188,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,281
+Client_38189,LCS_UK_FINANCE,Financial Services,Insurance,NULL,1546
+Client_38190,MENA_ECOM,Retail & Consumer Goods,consumers goods ,Israel,119
+Client_38191,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,369
+Client_38192,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,636
+Client_39193,LCS_FR_LUXURY,consumer goods,Consumer Goods,France,113
+Client_39194,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,NULL,285
+Client_39195,LCS_UK_FINANCE,financial services,INSURANCE,United Kingdom,108
+Client_39196,MENA_ECOM,Retail & Consumer Goods,Retail,Israel,1602
+Client_39197,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,839
+Client_39198,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,174
+Client_4199,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,206
+Client_4200,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,260
+Client_4201,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,136
+Client_4202,MENA_ECOM,Retail & Consumer Goods,retail,Israel,935
+Client_4203,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,5923
+Client_4204,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,119
+Client_40205,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,119
+Client_40206,LCS_IT_FASHION,Retail & Consumer Goods,consumer goods,Italy,387
+Client_40207,LCS_UK_FINANCE,Financial Services,Insurance,United Kingdom,633
+Client_40208,MENA_ECOM,Retail & Consumer Goods,Retail,Israel,403
+Client_40209,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,77
+Client_40210,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,664
+Client_41211,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,3186
+Client_41212,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,111
+Client_41213,LCS_UK_FINANCE,financial services,INSURANCE,United Kingdom,139
+Client_41214,MENA_ECOM,Consumer Goods   ,Retail,Israel,168
+Client_41215,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,715
+Client_41216,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,202
+Client_42217,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,152
+Client_42218,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1524
+Client_42219,LCS_UK_FINANCE,Financial Services,INSURANCE,United Kingdom,421
+Client_42220,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Israel,341
+Client_42221,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,572
+Client_42222,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,112
+Client_43223,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,858
+Client_43224,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,834
+Client_43225,LCS_UK_FINANCE,financial services,Wealth & Asset Management,United Kingdom,266
+Client_43226,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Israel,182
+Client_43227,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,575
+Client_43228,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,361
+Client_44229,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,2244
+Client_44230,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1018
+Client_44231,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,3112
+Client_44232,MENA_ECOM,Consumer Goods   ,consumers goods ,Israel,326
+Client_44233,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,8075
+Client_44234,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,119
+Client_45235,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,133
+Client_45236,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,760
+Client_45237,LCS_UK_FINANCE,financial services,Wealth & Asset Management,United Kingdom,94
+Client_45238,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Israel,99
+Client_45239,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,228
+Client_45240,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,631
+Client_46241,LCS_FR_LUXURY,RCG,Consumer Goods,France,717
+Client_46242,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,215
+Client_46243,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,234
+Client_46244,MENA_ECOM,Consumer Goods   ,Consumer Goods,Israel,168
+Client_46245,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,382
+Client_46246,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,126
+Client_47247,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,298
+Client_47248,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,210
+Client_47249,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,498
+Client_47250,MENA_ECOM,Retail & Consumer Goods,consumer goods,Israel,210
+Client_47251,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,562
+Client_47252,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,128
+Client_48253,LCS_FR_LUXURY,RCG,Consumer Goods,France,142
+Client_48254,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1249
+Client_48255,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,199
+Client_48256,MENA_ECOM,Consumer Goods   ,consumer goods,Egypt,780
+Client_48257,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,314
+Client_48258,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,2511
+Client_49259,LCS_FR_LUXURY,RCG,Consumer Goods,France,943
+Client_49260,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1355
+Client_49261,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,202
+Client_49262,MENA_ECOM,Consumer Goods   ,Consumer Goods,Egypt,1859
+Client_49263,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,194
+Client_49264,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,453
+Client_5265,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,180
+Client_5266,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,211
+Client_5267,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,710
+Client_5268,MENA_ECOM,Retail & Consumer Goods,consumer goods,Egypt,81
+Client_5269,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,69
+Client_5270,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,914
+Client_50271,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,158
+Client_50272,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,Italy,1218
+Client_50273,LCS_UK_FINANCE,Finance,Wealth & Asset Management,United Kingdom,74
+Client_50274,MENA_ECOM,Retail & Consumer Goods,Retail,Egypt,747
+Client_50275,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,162
+Client_50276,SMB_ES_RETAIL,Retail & Consumer Goods,RETAIL,Spain,1698
+Client_6277,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,389
+Client_6278,LCS_IT_FASHION,Consumer Goods,Consumer Goods,NULL,96
+Client_6279,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,352
+Client_6280,MENA_ECOM,Consumer Goods   ,retail,Egypt,335
+Client_6281,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,1176
+Client_6282,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,141
+Client_7283,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,NULL,252
+Client_7284,LCS_IT_FASHION,Consumer Goods,Consumer Goods,Italy,4043
+Client_7285,LCS_UK_FINANCE,Finance,Wealth & Asset Management,United Kingdom,3522
+Client_7286,MENA_ECOM,Consumer Goods   ,Retail,Egypt,527
+Client_7287,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,346
+Client_7288,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,436
+Client_8289,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,167
+Client_8290,LCS_IT_FASHION,Retail & Consumer Goods,Consumer Goods,NULL,569
+Client_8291,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,257
+Client_8292,MENA_ECOM,Retail & Consumer Goods,Retail,Egypt,216
+Client_8293,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,Germany,136
+Client_8294,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,243
+Client_9295,LCS_FR_LUXURY,Retail & Consumer Goods,Consumer Goods,France,77
+Client_9296,LCS_IT_FASHION,Consumer Goods,Consumer Goods,Italy,1208
+Client_9297,LCS_UK_FINANCE,Financial Services,Wealth & Asset Management,United Kingdom,283
+Client_9298,MENA_ECOM,Retail & Consumer Goods,Consumer Goods,Egypt,130
+Client_9299,SMB_DACH_AUTO,"Manufacturing, Automotive & Energy",Automotive,NULL,158
+Client_9300,SMB_ES_RETAIL,Retail & Consumer Goods,Retail   ,Spain,1017
